@@ -1,0 +1,12 @@
+{
+    "factionless": {
+        "name": "Factionless",
+        "description": "404 faction not found",
+        "role": 462369696331595776
+    },
+    "knights of the holy carrot": {
+        "name": "Knights of the Holy Carrot",
+        "description": "They love that carrot!",
+        "role": 438489121611317259
+    }
+}
